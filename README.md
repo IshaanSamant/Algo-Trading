@@ -1,2 +1,1 @@
-Article that explains code can be found here:
-https://www.activestate.com/blog/how-to-build-an-algorithmic-trading-bot/
+An Algotrading bot written using python. This bot uses the robin stocks package to perform algo-trading on realtime data from Robinhood

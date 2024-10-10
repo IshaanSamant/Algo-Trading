@@ -1,1 +1,1 @@
-An Algotrading bot written using python. This bot uses the robin stocks package to perform algo-trading on realtime data from Robinhood
+An Algotrading bot written using python. This bot uses the robin stocks package to perform algo-trading on realtime data from Robinhood.
